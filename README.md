@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eldricks
-- 👀 I’m interested in Web devops
+- 👀 I’m full-stack Web developer.
 - 🌱 I’m currently learning AI Coding
 - 💞️ I’m looking to collaborate on several web designs and AI projects
 - 📫 How to reach me @instagram.com/eldricksdcg/
